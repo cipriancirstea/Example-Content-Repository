@@ -1,6 +1,6 @@
 {
   "title": "Edge CaaS Example catalog",
-  "owners": { "xWmvqUk": ["all"] },
+  "owners": { "": ["all"] },
   "editors": {},
   "viewers": { "public": ["all"] },
   "previewers": {},
